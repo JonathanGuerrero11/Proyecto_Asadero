@@ -1,0 +1,20 @@
+.Titulos{
+    font-size: 35px;
+}
+
+.Info{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.Info2{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-family: 'Lato:wght', sans-serif;
+}
