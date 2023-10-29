@@ -1,0 +1,35 @@
+.Mapa{
+    margin: 7%;
+}
+
+.Mapa p
+{
+    font-size: 25PX;
+}
+
+@media only screen and (min-width: 400px) and (max-width: 600px) {
+
+    .Mapa iframe
+    {
+        width: 90%;
+        height: 300px;
+    } 
+}
+
+@media only screen and (min-width: 300px) and (max-width: 399px) {
+
+    .Mapa iframe
+    {
+        width: 90%;
+        height: 300px;
+    }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 299px) {
+
+    .Mapa iframe
+    {
+        width: 90%;
+        height: 100px;
+    }
+}
